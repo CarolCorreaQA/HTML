@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charcet="UTF-8"/>
+	<title>	Curso de HTML 5	</title>
+	<style>
+	h1{
+	font-family: Arial;
+	font-size: 30pt;
+	color: blue;
+	text-shadow: 2px 2px 2px black;
+	}
+	h2{
+	font-family: tachado;
+	color: purple;
+	}
+	</style>
+</head>
+<body>
+
+	<h1>Olá, Mundo!</h1>
+	<h2>Tipos de Testes</h2>
+	<h3>1. Funcional</h3>
+	<h4>Testará as funções do sistema. As funções são "o que" o sistema faz. </h4>
+	
+	<h3>2. Não-Funcional</h3>
+	<h4>Avaliam as características de sistemas e de software. "O quão bem" o sistema se comporta.</h4>
+	
+	
+	<h3>3. Caixa-Branca</h3>
+	<h4>É com base na estrutura interna ou na implementação do sistema.</h4>
+	
+	<h3>4. Relacionado à Mudanças</h3>
+	<h4>Quando são feitas alterações no sistema, ou seja, para corrigir um defeito ou confirmar se as novas funcionalidades não causaram consequencias adversas.</h4>
+
+</body>
+</html>
